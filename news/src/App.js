@@ -8,7 +8,7 @@ import {
 
 function App() {
   const country = "in";
-  const pageSize = 18;
+  const pageSize = 15;
   return (
     <>
       <Router>
